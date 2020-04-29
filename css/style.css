@@ -67,23 +67,3 @@ img {
 .clear {
   clear: both;
 }
-
-
-
-/* [class*="col-"] {
-  position: relative;
-  height: 100%;
-}
-
-p {
-  font-weight: bold;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.debug .nested {
-  border: 1px solid white;
-  background-color: #ff6666;
-} */
